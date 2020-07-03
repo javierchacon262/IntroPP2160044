@@ -1,0 +1,7 @@
+forest_is_burning()
+forest_burns()
+forest_print()
+get_percent_burned()
+forest_initialize()
+forest_delete()
+tree_ignite()
